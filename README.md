@@ -1,6 +1,6 @@
 ### LockeErasmus 
 I am interested in mathematical modeling, control algorithms (mainly unconventional ones) and optimisation.
-> My nickname comes from iconic book Ender's Game by Orson Scott Card.
+> My nickname comes from an iconic book *Ender's Game* by *Orson Scott Card*.
 
 **Languages and Tools:**
 
